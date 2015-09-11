@@ -52,27 +52,25 @@ public class Day3 {
         p.move(size);
         p.move(size);
         p.move(size);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         p.move(size);
-        p.turn(turn);
-        p.move(size);
-        p.move(size);
-        p.turn(turn);
+        p.turn(turn2);
         
       
     }
