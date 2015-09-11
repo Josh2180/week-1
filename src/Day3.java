@@ -6,7 +6,7 @@ public class Day3 {
         SketchPadWindow win=new SketchPadWindow(1280,1024);
         Pen p=new RainbowPen(win);
         p.setWidth(100);
-        int size=100;
+        int size=125;
         int turn=36;
         int turn2=-36;
         p.move(size);
